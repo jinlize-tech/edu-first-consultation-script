@@ -13,7 +13,7 @@ examples_en:
   - 'Complete First Consultation Script for my education organization.'
   - 'Use the supplied information to produce 首次咨询流程.'
   - 'Review the provided material for gaps, conflicts, and out-of-scope content.'
-version: 1.0.1
+version: 1.0.2
 author: '广州金励泽科技服务有限公司'
 ---
 
